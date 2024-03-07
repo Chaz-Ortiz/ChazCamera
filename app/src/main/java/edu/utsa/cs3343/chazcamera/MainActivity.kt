@@ -55,6 +55,9 @@ import androidx.compose.ui.unit.dp
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.viewmodel.compose.viewModel
+
+// Be careful with this next line
+// the part after cs3343 NEEDS TO MATCH THE PROJECT NAME!
 import edu.utsa.cs3343.chazcamera.ui.theme.CameraXGuideTheme
 import kotlinx.coroutines.launch
 import java.io.File
